@@ -2,7 +2,7 @@
 
 Freelance Design System Architect and Brand Identity Lead, based in Lisbon.
 
-I build tooling that keeps a design system true between Figma and code: the real tokens, components, props and states, named exactly as the system names them, so people and AI agents build with the system instead of guessing it.
+I build the tools and systems that give design teams more control over their design systems. From governance and alignment to Figma, code and AI, I turn design decisions into something teams can actually manage, verify and trust.
 
 ---
 
