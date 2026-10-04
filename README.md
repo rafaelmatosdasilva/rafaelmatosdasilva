@@ -6,11 +6,15 @@ I build the tools and systems that give design teams more control over their des
 
 ---
 
-### **Tools for design systems**
+### **Open Source tools for design systems**
 
-[rms-design-system-engine](https://github.com/rafaelmatosdasilva/rms-design-system-engine) The core of your design system. A maintenance engine that keeps designers, developers and AI agents aligned, and Figma and code in parity. It generates the style guide, documentation, contracts and intent layer from code and Figma, then checks every change against the system, including accessibility, telling you what to fix and where.
+[rms-design-system-engine](https://github.com/rafaelmatosdasilva/rms-design-system-engine) The core of your design system. Keep designers, developers and AI agents aligned, generate documentation and contracts, and maintain parity between Figma and code.
 
-[rms-ds-figma-plugins](https://github.com/rafaelmatosdasilva/rms-ds-figma-plugins) Open-source Figma plugins for design system teams: Impact Atlas traces token dependencies, Tokens to Ink extends colour tokens into print, Font Scaling Lab stress tests layouts under text scaling.
+[rms-figma-impact-atlas](https://github.com/rafaelmatosdasilva/rms-figma-impact-atlas) Understand how changes move through your design system. Trace token dependencies, see what’s affected, and understand how changes propagate across tokens and components.
+
+[rms-figma-font-scaling-lab](https://github.com/rafaelmatosdasilva/rms-figma-font-scaling-lab) Test how your typography behaves beyond ideal layouts. Simulate text scaling and changing content to uncover overflow, broken layouts, and accessibility issues.
+
+[rms-figma-tokens-to-ink](https://github.com/rafaelmatosdasilva/rms-figma-tokens-to-ink) Take your design system beyond the screen. Extend Figma color variables into print-ready values and keep colors consistent across digital and physical output.
 
 ---
 
