@@ -1,8 +1,7 @@
-# **Design systems that code and AI can trust**
+# **Design systems beyond the Figma file**
 
-Freelance Design System Architect and Brand Identity Lead, based in Lisbon.
-
-I build the tools and systems that give design teams more control over their design systems. From governance and alignment to Figma, code and AI, I turn design decisions into something teams can actually manage, verify and trust.
+I’m a freelance Design Systems Architect and Brand Identity Lead based in Lisbon.
+I build open-source tools for understanding, maintaining and evolving design systems across Figma, code and AI.
 
 ---
 
