@@ -7,7 +7,7 @@ I build open-source tools for understanding, maintaining and evolving design sys
 
 ### **RMS Design System Engine**
 
-<a href="https://github.com/rafaelmatosdasilva/rms-design-system-engine"><img src="assets/design-system-engine.png" width="100%" alt="The engine's living style guide: parity with Figma, code, documentation and accessibility, scored for every component"></a>
+<a href="https://github.com/rafaelmatosdasilva/rms-design-system-engine"><img src="assets/design-system-engine-status.png" width="100%" alt="The engine's living style guide: parity with Figma, code, documentation and accessibility, scored for every component"></a>
 
 **From fragmented tools to shared design system intelligence.** One engine connects Figma, code, documentation and decisions, so designers, developers and AI agents work from the same source.
 
