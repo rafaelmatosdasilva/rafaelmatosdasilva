@@ -5,15 +5,18 @@ I build open-source tools for understanding, maintaining and evolving design sys
 
 ---
 
-### **Open Source tools for design systems**
+### **RMS Design System Engine**
 
-<a href="https://github.com/rafaelmatosdasilva/rms-design-system-engine"><img src="assets/design-system-engine.png" width="260" align="left" alt="rms-design-system-engine"></a><img src="assets/spacer.png" width="240" height="1" alt=""><br><a href="https://github.com/rafaelmatosdasilva/rms-design-system-engine"><b>rms-design-system-engine</b></a><br>The core of your design system. Keep designers, developers and AI agents aligned, generate documentation and contracts, and maintain parity between Figma and code.<br clear="left"><br>
+<a href="https://github.com/rafaelmatosdasilva/rms-design-system-engine"><img src="assets/design-system-engine.png" width="100%" alt="The engine's living style guide: parity with Figma, code, documentation and accessibility, scored for every component"></a>
 
-<a href="https://github.com/rafaelmatosdasilva/rms-figma-impact-atlas"><img src="assets/impact-atlas.png" width="260" align="left" alt="rms-figma-impact-atlas"></a><img src="assets/spacer.png" width="240" height="1" alt=""><br><a href="https://github.com/rafaelmatosdasilva/rms-figma-impact-atlas"><b>rms-figma-impact-atlas</b></a><br>Understand how changes move through your design system. Trace token dependencies, see what’s affected, and understand how changes propagate across tokens and components.<br clear="left"><br>
+**From fragmented tools to shared design system intelligence.** One engine connects Figma, code, documentation and decisions, so designers, developers and AI agents work from the same source.
 
-<a href="https://github.com/rafaelmatosdasilva/rms-figma-font-scaling-lab"><img src="assets/font-scaling-lab.png" width="260" align="left" alt="rms-figma-font-scaling-lab"></a><img src="assets/spacer.png" width="240" height="1" alt=""><br><a href="https://github.com/rafaelmatosdasilva/rms-figma-font-scaling-lab"><b>rms-figma-font-scaling-lab</b></a><br>Test how your typography behaves beyond ideal layouts. Simulate text scaling and changing content to uncover overflow, broken layouts, and accessibility issues.<br clear="left"><br>
+- **Audit.** Your Figma library's rules, Figma-code parity as a real browser draws it (Chrome, Firefox and Safari), and accessibility to WCAG 2.2 AA.
+- **Document.** A contract per component and its usage guidelines, written from Figma and the code, in W3C DTCG and DSDS.
+- **Collaborate.** A living style guide, rebuilt on every push, that says who needs to do what next.
+- **Keep AI on the system.** Agents read the same contracts, and the checks catch what they invent.
 
-<a href="https://github.com/rafaelmatosdasilva/rms-figma-tokens-to-ink"><img src="assets/tokens-to-ink.png" width="260" align="left" alt="rms-figma-tokens-to-ink"></a><img src="assets/spacer.png" width="240" height="1" alt=""><br><a href="https://github.com/rafaelmatosdasilva/rms-figma-tokens-to-ink"><b>rms-figma-tokens-to-ink</b></a><br>Take your design system beyond the screen. Extend Figma color variables into print-ready values and keep colors consistent across digital and physical output.<br clear="left"><br>
+[See the live style guide](https://rafaelmatosdasilva.github.io/rms-ds-figma-plugins/) · [Features](https://github.com/rafaelmatosdasilva/rms-design-system-engine/blob/main/docs/features.md) · [Get started](https://github.com/rafaelmatosdasilva/rms-design-system-engine#get-started)
 
 ---
 
