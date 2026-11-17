@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="20" role="img" aria-label="Git"><title>Git</title><rect width="47" height="20" rx="4" fill="#A43919"/><svg x="6" y="3" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path d="M12 8m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path d="M12 16m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path d="M12 15v-6" />
+  <path d="M15 11l-2 -2" />
+  <path d="M11 7l-1.9 -1.9" />
+  <path d="M13.446 2.6l7.955 7.954a2.045 2.045 0 0 1 0 2.892l-7.955 7.955a2.045 2.045 0 0 1 -2.892 0l-7.955 -7.955a2.045 2.045 0 0 1 0 -2.892l7.955 -7.955a2.045 2.045 0 0 1 2.892 0z" /></svg><filter id="b"><feGaussianBlur stdDeviation="16"/></filter><g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="250" y="150" fill-opacity=".8" filter="url(#b)" textLength="150" lengthAdjust="spacingAndGlyphs">Git</text><text x="250" y="150" fill-opacity=".3" textLength="150" lengthAdjust="spacingAndGlyphs">Git</text></g><text x="250" y="140" textLength="150" lengthAdjust="spacingAndGlyphs">Git</text></g></g></svg>

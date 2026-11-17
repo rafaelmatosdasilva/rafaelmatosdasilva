@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74" height="20" role="img" aria-label="Chrome"><title>Chrome</title><rect width="74" height="20" rx="4" fill="#2D5CA8"/><svg x="6" y="3" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path d="M12 9h8.4" />
+  <path d="M14.598 13.5l-4.2 7.275" />
+  <path d="M9.402 13.5l-4.2 -7.275" /></svg><filter id="b"><feGaussianBlur stdDeviation="16"/></filter><g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="250" y="150" fill-opacity=".8" filter="url(#b)" textLength="420" lengthAdjust="spacingAndGlyphs">Chrome</text><text x="250" y="150" fill-opacity=".3" textLength="420" lengthAdjust="spacingAndGlyphs">Chrome</text></g><text x="250" y="140" textLength="420" lengthAdjust="spacingAndGlyphs">Chrome</text></g></g></svg>
