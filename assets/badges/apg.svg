@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="20" role="img" aria-label="WAI-ARIA APG"><title>WAI-ARIA APG</title><rect width="109" height="20" rx="4" fill="#004F89"/><svg x="6" y="3" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 6m0 2a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2z" />
+  <path d="M6 10l0 .01" />
+  <path d="M10 10l0 .01" />
+  <path d="M14 10l0 .01" />
+  <path d="M18 10l0 .01" />
+  <path d="M6 14l0 .01" />
+  <path d="M18 14l0 .01" />
+  <path d="M10 14l4 .01" /></svg><filter id="b"><feGaussianBlur stdDeviation="16"/></filter><g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="250" y="150" fill-opacity=".8" filter="url(#b)" textLength="770" lengthAdjust="spacingAndGlyphs">WAI-ARIA APG</text><text x="250" y="150" fill-opacity=".3" textLength="770" lengthAdjust="spacingAndGlyphs">WAI-ARIA APG</text></g><text x="250" y="140" textLength="770" lengthAdjust="spacingAndGlyphs">WAI-ARIA APG</text></g></g></svg>
