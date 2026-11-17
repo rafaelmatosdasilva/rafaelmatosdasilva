@@ -16,8 +16,5 @@ I build open-source tools for understanding, maintaining and evolving design sys
 - **Collaborate.** A living style guide, rebuilt on every push, that says who needs to do what next.
 - **Keep AI on the system.** Agents read the same contracts, and the checks catch what they invent.
 
-[See the live style guide](https://rafaelmatosdasilva.github.io/rms-ds-figma-plugins/) · [Features](https://github.com/rafaelmatosdasilva/rms-design-system-engine/blob/main/docs/features.md) · [Get started](https://github.com/rafaelmatosdasilva/rms-design-system-engine#get-started)
-
+[Get started](https://github.com/rafaelmatosdasilva/rms-design-system-engine#get-started)
 ---
-
-[Personal Website](https://www.rafaelmatosdasilva.com) · [LinkedIn](https://www.linkedin.com/in/rafaelmatosdasilva)
